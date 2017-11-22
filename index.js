@@ -1,3 +1,3 @@
-"use strict"
+'use strict'
 
-var sc = module.exports = require("./api");
+var sc = module.exports = require('./api');
